@@ -15,7 +15,7 @@ export default function RootLayout({ children }) {
         <MainHeaderBackground>
           <div style={{ textAlign: 'center', margin: '20px 0' }}>
             <Image
-              src="/images/logo.png"
+              src="/lab11/images/logo.png"
               alt="NextLevel Food Logo"
               width={200}
               height={100}
